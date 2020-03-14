@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://piebohzes.judsonbuilt.com/sitemap.xml
